@@ -1,0 +1,86 @@
+[
+  {
+    "id": 0,
+    "title": "кроссовки Yeezy Boost 350 V2",
+    "company": "Adidas",
+    "image": "https://cdn-images.farfetch-contents.com/14/16/97/21/14169721_20127255_1000.jpg",
+    "price": 8299
+  },
+  {
+    "id": 1,
+    "title": "кроссовки NMD_R1",
+    "company": "Adidas",
+    "image": "https://cdn-images.farfetch-contents.com/15/58/32/71/15583271_28664364_1000.jpg",
+    "price": 7799
+  },
+  {
+    "id": 2,
+    "title": "кроссовки NMD_R1",
+    "company": "Adidas",
+    "image": "https://cdn-images.farfetch-contents.com/15/90/62/85/15906285_29652134_1000.jpg",
+    "price": 9699
+  },
+  {
+    "id": 3,
+    "title": "кроссовки Air Jordan 1 Retro",
+    "company": "Jordan",
+    "image": "https://cdn-images.farfetch-contents.com/15/95/78/61/15957861_30145315_1000.jpg",
+    "price": 5499
+  },
+  {
+    "id": 4,
+    "title": "кроссовки Air Max 95 Essential",
+    "company": "Nike",
+    "image": "https://cdn-images.farfetch-contents.com/14/66/01/45/14660145_23132311_1000.jpg",
+    "price": 2999
+  },
+  {
+    "id": 5,
+    "title": "кроссовки Air Max 90",
+    "company": "Nike",
+    "image": "https://cdn-images.farfetch-contents.com/16/07/06/97/16070697_30563905_1000.jpg",
+    "price": 7799
+  },
+  {
+    "id": 6,
+    "title": "кроссовки SB Dunk High",
+    "company": "Nike",
+    "image": "https://cdn-images.farfetch-contents.com/15/55/98/89/15559889_29624200_1000.jpg",
+    "price": 8999
+  },
+  {
+    "id": 7,
+    "title": "кроссовки Air Jordan 3 Retro",
+    "company": "Nike",
+    "image": "https://cdn-images.farfetch-contents.com/15/26/95/32/15269532_26970306_1000.jpg",
+    "price": 5999
+  },
+  {
+    "id": 8,
+    "title": "кеды Ace с узором GG Supreme",
+    "company": "Gucci",
+    "image": "https://cdn-images.farfetch-contents.com/15/40/06/64/15400664_27113760_1000.jpg",
+    "price": 9899
+  },
+  {
+    "id": 9,
+    "title": "кроссовки Yeezy Boost 380 Mist",
+    "company": "Adidas",
+    "image": "https://cdn-images.farfetch-contents.com/15/25/71/78/15257178_26473502_1000.jpg",
+    "price": 4299
+  },
+  {
+    "id": 10,
+    "title": "кроссовки Portofino",
+    "company": "Dolce & Gabbana",
+    "image": "https://cdn-images.farfetch-contents.com/14/94/87/13/14948713_25179207_1000.jpg",
+    "price": 5699
+  },
+  {
+    "id": 11,
+    "title": "Кеды",
+    "company": "Off-White",
+    "image": "https://cdn-images.farfetch-contents.com/16/13/70/54/16137054_30470375_1000.jpg",
+    "price": 4999
+  }
+]
